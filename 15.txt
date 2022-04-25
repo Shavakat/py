@@ -1,0 +1,3 @@
+sudo apt-get pip install   #установка менеджера управленя пакетов
+sudo pip install flask          #установка flask
+sudo pip install django         #установка django
